@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c1195986cd54558",
+        "id": "d1abb818e30a2ad8",
         "type": "tabs",
         "children": [
           {
-            "id": "0d45bb753402930d",
+            "id": "c41ee15e55a65470",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -144,6 +144,8 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0d45bb753402930d",
-  "lastOpenFiles": []
+  "active": "c41ee15e55a65470",
+  "lastOpenFiles": [
+    "Test Note.md"
+  ]
 }
