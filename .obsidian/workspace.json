@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c41ee15e55a65470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PreCal/4.1 - Right Angle Trigonometry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ab31b34c90d02ee3",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "active": "ab31b34c90d02ee3",
   "lastOpenFiles": [
