@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Note.md",
+                "file": "PreCal/4.1 - Right Angle Trigonometry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab31b34c90d02ee3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Art History/Notes 11-18-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Note.md",
+                "file": "Art History/Notes 11-18-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Note.md",
+                "file": "Art History/Notes 11-18-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Note.md"
+                "file": "Art History/Notes 11-18-22.md"
               }
             }
           },
@@ -142,10 +155,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
-  "active": "c41ee15e55a65470",
+  "active": "ab31b34c90d02ee3",
   "lastOpenFiles": [
+    "PreCal/4.1 - Right Angle Trigonometry.md",
     "Test Note.md"
   ]
 }
